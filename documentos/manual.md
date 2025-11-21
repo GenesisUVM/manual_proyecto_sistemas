@@ -121,6 +121,57 @@ No trabajar directamente en main.
 Hacer commits pequeños y descriptivos.
 
 Sincronizar antes de empezar → git pull origin main.
+4. Citas y referencias
+
+4.1. Estilo recomendado
+Usar el formato APA (7.ª edición) para todos los trabajos académicos.
+
+4.2. Cómo citar dentro del texto
+
+Autor y año entre paréntesis:
+(Pérez, 2020)
+
+Cita textual menor de 40 palabras:
+“Texto citado…” (Pérez, 2020, p. 15).
+
+Cita de más de 40 palabras: usar sangría.
+
+4.3. Lista de referencias
+Debe incluir:
+
+Autor
+
+Año
+
+Título
+
+Editorial o fuente
+
+Enlace (si aplica)
+
+Ejemplo:
+
+Pérez, M. (2020). Fundamentos de investigación académica. Editorial Alfa.
+
+4.4. Herramientas recomendadas
+
+Google Scholar (citar automáticamente)
+
+Zotero
+
+Mendeley
+
+Generador APA de Scribbr o Normas APA
+
+4.5. Buenas prácticas
+
+Verificar que todas las citas aparezcan en la bibliografía.
+
+Evitar enlaces rotos.
+
+No citar Wikipedia directamente: usar fuentes primarias.
+
+Mantener las referencias en la carpeta /referencias.
 5. Generación del PDF final
 
 5.1. Si el manual está en Markdown
@@ -150,4 +201,5 @@ Correcciones
 Revisiones
 
 Subir el PDF con un mensaje claro:
+
 “Versión final del manual para entrega – v1.0”
