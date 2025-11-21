@@ -1,6 +1,5 @@
 # Manual de Buenas Prácticas para Trabajos Universitarios en Equipo
 
----
 
 ## 1. Buenas prácticas de organización del equipo
 
@@ -17,7 +16,6 @@
 - **Encargado de revisión:** valida contenido antes de aprobar cambios.
 - **Encargado de diseño o formato:** estandariza estilos y estructura visual.
 
-> *Los roles pueden rotar semanalmente para equilibrar la carga de trabajo.*
 
 ### 1.3. Reuniones y planificación
 - Realizar reuniones cortas de seguimiento (10–15 minutos).
@@ -34,7 +32,6 @@
   - `en-revisión`
   - `completado`
 
----
 
 ## 2. Formato del documento
 
@@ -59,7 +56,7 @@
 - Nombrar archivos como: `figura_01.png`, `tabla_02.jpg`.
 - Referenciar en el texto de esta forma:
 
-> *Figura 01. Ejemplo de estructura de proyecto colaborativo.*
+
 
 ### 2.4. Escritura
 - Redacción formal y clara.
@@ -67,7 +64,6 @@
 - Revisar ortografía antes de enviar un Pull Request.
 - Utilizar lenguaje inclusivo y profesional.
 
----
 
 ## 3. Cómo trabajar con ramas en Git
 
@@ -75,3 +71,4 @@
 1. Crear una rama por sección:  
    ```bash
    git checkout -b seccion-formato
+
