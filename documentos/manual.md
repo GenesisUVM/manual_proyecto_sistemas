@@ -15,14 +15,11 @@ Hacer pull antes de editar.
 4.3. Cómo resolverlos
 
 Git marcará el archivo con:
-
-<<<<<<< HEAD
+<<<<<< HEAD
 tu versión
 =======
 versión del compañero
 >>>>>>> rama-del-compañero
-
-
 Elegir qué parte conservar y editar manualmente.
 
 Guardar el archivo corregido.
