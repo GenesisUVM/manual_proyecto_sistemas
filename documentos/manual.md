@@ -78,7 +78,7 @@ Utilizar etiquetas en Issues:
 prioridad-alta, documentación, en revisión, completado.
 
 
-3.2. Nombres recomendados para ramas
+### 3.2. Nombres recomendados para ramas
 
 seccion-buenas-practicas
 
@@ -90,19 +90,19 @@ seccion-conflictos
 
 PDF-final
 
-3.3. Buenas prácticas
+### 3.3. Buenas prácticas
 
 No trabajar directamente en main.
 
 Hacer commits pequeños y descriptivos.
 
 Sincronizar antes de empezar → git pull origin main.
-4. Citas y referencias
+## 4. Citas y referencias
 
-4.1. Estilo recomendado
+### 4.1. Estilo recomendado
 Usar el formato APA (7.ª edición) para todos los trabajos académicos.
 
-4.2. Cómo citar dentro del texto
+### 4.2. Cómo citar dentro del texto
 
 Autor y año entre paréntesis:
 (Pérez, 2020)
@@ -112,7 +112,7 @@ Cita textual menor de 40 palabras:
 
 Cita de más de 40 palabras: usar sangría.
 
-4.3. Lista de referencias
+### 4.3. Lista de referencias
 Debe incluir:
 
 Autor
@@ -129,7 +129,7 @@ Ejemplo:
 
 Pérez, M. (2020). Fundamentos de investigación académica. Editorial Alfa.
 
-4.4. Herramientas recomendadas
+### 4.4. Herramientas recomendadas
 
 Google Scholar (citar automáticamente)
 
@@ -139,7 +139,7 @@ Mendeley
 
 Generador APA de Scribbr o Normas APA
 
-4.5. Buenas prácticas
+### 4.5. Buenas prácticas
 
 Verificar que todas las citas aparezcan en la bibliografía.
 
@@ -148,15 +148,15 @@ Evitar enlaces rotos.
 No citar Wikipedia directamente: usar fuentes primarias.
 
 Mantener las referencias en la carpeta /referencias.
-5. Generación del PDF final
+## 5. Generación del PDF final
 
-5.1. Si el manual está en Markdown
+### 5.1. Si el manual está en Markdown
 
 Puedes convertirlo usando un convertidor online o Pandoc:
 
 pandoc manual.md -o manual.pdf
 
-5.2. Si está en Google Docs o Word
+### 5.2. Si está en Google Docs o Word
 
 Exportar como PDF.
 
@@ -164,7 +164,7 @@ Asegurarse de que los títulos y numeraciones estén correctos.
 
 Guardar el PDF en la carpeta /documentos.
 
-5.3. Versión final
+### 5.3. Versión final
 
 Etiquetar la versión → v1.0.
 
@@ -179,3 +179,4 @@ Revisiones
 Subir el PDF con un mensaje claro:
 
 “Versión final del manual para entrega – v1.0”
+
